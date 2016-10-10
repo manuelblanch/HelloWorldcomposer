@@ -1,0 +1,9 @@
+{
+    "name": "manuelblanch/composer-hello-world",
+    "description": "hello world",
+    "type": "MIT",
+    "license": "MIT",
+    "require": {
+        "mfacenet/hello-world": "^1.0"
+    }
+}
